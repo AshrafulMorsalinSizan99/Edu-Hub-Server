@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6357ce3c9ae8fc3912fb611f",
+        "name": "Javascript Full Course",
+        "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published.",
+        "img": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
+        "course_id": "01"
+    },
+    {
+        "id": "6357ce3c6dbf84e72041d594",
+        "name": "React Full Course",
+        "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+        "img": "https://www.freecodecamp.org/news/content/images/2021/07/reactcourse.png",
+        "course_id": "02"
+    },
+    {
+        "id": "6357ce3cfa56a1eb27239e30",
+        "name": "Django Full Course",
+        "description": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support.Django can be (and has been) used to build almost any type of website — from content management systems and wikis, through to social networks and news sites. It can work with any client-side framework, and can deliver content in almost any format (including HTML, RSS feeds, JSON, and XML).",
+        "img": "https://1.bp.blogspot.com/-42WDaVJa3j8/Xw73Ww75gCI/AAAAAAAAhHg/ePGNcnUyddEOg8NSXoAEe0Upiu3rUwkdACLcBGAsYHQ/w1200-h630-p-k-no-nu/Django%2B3%2B-%2BFull%2BStack%2BWebsites%2Bwith%2BPython%2BWeb%2BDevelopment%2B-%2Bbest%2BUdemy%2Bcourse.png",
+        "course_id": "03"
+    },
+    {
+        "id": "6357ce3c418f5ee5710bbb4c",
+        "name": "PHP Full Course",
+        "description": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications. This tutorial helps you to build your base with PHP.PHP is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain.This PHP tutorial covers all the topics of PHP such as introduction, control statements, functions, array, string, file handling, form handling, regular expression, date and time, object-oriented programming in PHP, math, PHP MySQL, PHP with Ajax, PHP with jQuery and PHP with XML.",
+        "img": "https://www.php.net/images/meta-image.png",
+        "course_id": "04"
+    },
+    {
+        "id": "6357ce3cf7eb7efb9394ad91",
+        "name": "Java Full Course",
+        "description": "Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
+        "img": "https://www.oracle.com/img/tech/cb88-java-logo-001.jpg",
+        "course_id": "05"
+    },
+    {
+        "id": "6357ce3cf2da5fddb2087d48",
+        "name": "SQL Full Course",
+        "description": "SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database.SQL is the standard language for Relational Database System. All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their standard database language.This SQL tutorial is prepared for beginners to help them understand the basic as well as the advanced concepts related to SQL languages. This tutorial will give you enough understanding on the various components of SQL along with suitable examples.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        "course_id": "06"
+    }
+]

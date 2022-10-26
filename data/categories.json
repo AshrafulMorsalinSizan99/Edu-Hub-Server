@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "course_name": "Javascript Full Course",
+        "img": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png"
+    },
+    {
+        "id": "02",
+        "course_name": "React Full Course",
+        "img": "https://www.freecodecamp.org/news/content/images/2021/07/reactcourse.png"
+    },
+    {
+        "id": "03",
+        "course_name": "Django Full Course",
+        "img": "https://1.bp.blogspot.com/-42WDaVJa3j8/Xw73Ww75gCI/AAAAAAAAhHg/ePGNcnUyddEOg8NSXoAEe0Upiu3rUwkdACLcBGAsYHQ/w1200-h630-p-k-no-nu/Django%2B3%2B-%2BFull%2BStack%2BWebsites%2Bwith%2BPython%2BWeb%2BDevelopment%2B-%2Bbest%2BUdemy%2Bcourse.png"
+    },
+    {
+        "id": "04",
+        "course_name": "PHP Full Course",
+        "img": "https://www.php.net/images/meta-image.png"
+    },
+    {
+        "id": "05",
+        "course_name": "Java Full Course",
+        "img": "https://www.oracle.com/img/tech/cb88-java-logo-001.jpg"
+    },
+    {
+        "id": "06",
+        "course_name": "SQL Full Course",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+    }
+]
