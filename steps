@@ -1,4 +1,5 @@
 /*
 1. created express
 2. created cors
+3. created git ignore file and wrote /node_modules
 */
